@@ -1,2 +1,10 @@
 # Boom-Bikes
-BoomBikes, a US bike-sharing provider, faces revenue challenges amid the pandemic. To rejuvenate post-lockdown, a data-driven plan aims to model bike demand using various factors. This strategic insight will guide management in adapting business strategies and gauging demand dynamics in new markets.
+A US bike-sharing provider **BoomBikes** has recently suffered considerable dips in their revenues due to the Corona pandemic. The company is finding it very difficult to sustain in the current market scenario. So, it has decided to come up with a mindful business plan to be able to accelerate its revenue as soon as the lockdown comes to an end, and the economy restores to a healthy state. 
+
+In such an attempt, BoomBikes aspires to understand the demand for shared bikes among the people after this quarantine situation ends across the nation due to Covid-19. They have planned this to prepare themselves to cater to the people's needs once the situation gets better all around and stand out from other service providers and make huge profits.
+
+I as a Consultant model the demand for shared bikes with the available independent variables. It will be used by the management to understand how exactly the demands vary with different features. They can accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations. 
+
+The findings and the insights are available in the provided PDF dcument.
+
+
